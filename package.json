@@ -8,6 +8,9 @@
 		"preview": "vite preview",
 		"lint": "eslint ."
 	},
+	"dependencies": {
+		"@supabase/supabase-js": "^2.44.0"
+	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
