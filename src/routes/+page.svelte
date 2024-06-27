@@ -9,6 +9,7 @@
   <h2>{post.title}</h2>
   <div>{post.publish_at}</div>
   <p style="white-space: pre-line">{post.body}</p>
+  <br />
 {/each}
 <br />
 <a href="/about">लेखक के बारे में</a>
